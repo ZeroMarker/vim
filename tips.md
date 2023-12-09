@@ -4,6 +4,7 @@
 :vertical terminal
 :vert term
 :vert
+:term
 
 # split
 :sp
@@ -13,7 +14,7 @@
 ctrl-w + W
 
 # close termainal
-
+ctrl-d
 
 Key Binding	Description
 SPC '	Open or switch to the terminal windows
