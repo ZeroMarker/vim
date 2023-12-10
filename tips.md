@@ -10,7 +10,7 @@
 :sp
 :vs
 
-# tab switch
+# tab terminal switch
 ctrl-w + W
 
 # close termainal
